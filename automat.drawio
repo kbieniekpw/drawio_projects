@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T22:53:38.076Z" agent="5.0 (X11)" etag="NrCiERXIlyPCY7QCN4zG" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T22:57:43.925Z" agent="5.0 (X11)" etag="gz-4VG2fYeX21ZI7yvXC" version="19.0.0" type="github">
   <diagram id="uxtKMf21eRbsi_KwySVA" name="Page-1">
-    <mxGraphModel dx="395" dy="228" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="328" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,17 +246,13 @@
         <mxCell id="MTLXHmxA1OsBjIj6GVYz-34" value="suceed &amp;amp; looked for charger " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="320.75" y="770" width="49.5" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="MTLXHmxA1OsBjIj6GVYz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=5;" parent="1" source="MTLXHmxA1OsBjIj6GVYz-35" target="MTLXHmxA1OsBjIj6GVYz-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MTLXHmxA1OsBjIj6GVYz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=5;" parent="1" source="MTLXHmxA1OsBjIj6GVYz-35" target="MTLXHmxA1OsBjIj6GVYz-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MTLXHmxA1OsBjIj6GVYz-35" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;stop &amp;amp; get alternative path points&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="183" y="785" width="65.5" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="MTLXHmxA1OsBjIj6GVYz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=5;" parent="1" source="MTLXHmxA1OsBjIj6GVYz-36" target="MTLXHmxA1OsBjIj6GVYz-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MTLXHmxA1OsBjIj6GVYz-36" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;make intermidiate points table&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="185" y="840" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MTLXHmxA1OsBjIj6GVYz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=5;" parent="1" source="MTLXHmxA1OsBjIj6GVYz-37" target="MTLXHmxA1OsBjIj6GVYz-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -293,9 +289,6 @@
         </mxCell>
         <mxCell id="MTLXHmxA1OsBjIj6GVYz-43" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;get next point&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="255.5" y="925" width="40" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="MTLXHmxA1OsBjIj6GVYz-47" value="suceed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="175" y="870" width="49.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="MTLXHmxA1OsBjIj6GVYz-48" value="suceed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="175" y="817.5" width="49.5" height="15" as="geometry" />
