@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T19:20:29.837Z" agent="5.0 (Windows)" etag="hkSXK3cRAmgtWjBWgHrK" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T19:21:37.327Z" agent="5.0 (Windows)" etag="GypgmVL-aVvxYKCp5BnD" version="20.8.13" type="github">
   <diagram name="Strona-1" id="hXzvowjQRAWf8-JU-ZpP">
     <mxGraphModel dx="574" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="as4iFgCWQogI6HnyhADF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="565" y="285" width="30" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="O6azC5yQEUZpfAAA6BgK-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="275" width="135" height="30" as="geometry" />
         </mxCell>
