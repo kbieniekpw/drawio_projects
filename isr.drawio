@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T15:00:59.308Z" agent="5.0 (Windows)" etag="8GU8iEa3dxczmx_VieRR" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T15:04:17.839Z" agent="5.0 (Windows)" etag="Ja4sg1IlmF34ozOPxSr-" version="20.8.13" type="github">
   <diagram name="Strona-1" id="_t40CgJyZJtXVZXZAgYF">
-    <mxGraphModel dx="574" dy="286" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="341" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,33 @@
         </mxCell>
         <mxCell id="AmnBBp1fm2Mw9S4xVcrF-52" value="Podajnik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404.76" y="429.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="91" y="258" width="58" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="115" y="238" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-59" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFFF;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="92" y="272" width="56" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-61" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="112" y="274" width="16" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98" y="290" as="sourcePoint" />
+            <mxPoint x="114" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-64" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="291" as="sourcePoint" />
+            <mxPoint x="128" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmnBBp1fm2Mw9S4xVcrF-65" value="Kamera" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="248" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
