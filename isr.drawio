@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T23:59:06.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="YF_9RHzQW4tfGveCTgTs" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T23:59:36.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="nOnpJraWKpFgF9cW6Ddb" version="22.1.11" type="github">
   <diagram name="Strona-1" id="_t40CgJyZJtXVZXZAgYF">
     <mxGraphModel dx="4393" dy="1019" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -866,6 +866,12 @@
         </mxCell>
         <mxCell id="wfvyyJ1DKXGrthg5NDn7-25" value="1,3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2141" y="2450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfvyyJ1DKXGrthg5NDn7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wfvyyJ1DKXGrthg5NDn7-35" target="wfvyyJ1DKXGrthg5NDn7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wfvyyJ1DKXGrthg5NDn7-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#050505;" vertex="1" parent="1">
+          <mxGeometry x="-2201" y="1778" width="22" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
