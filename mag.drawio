@@ -1,9 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T13:13:35.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.8" etag="0XP1KJ8u2H-yjDEQy2xD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T13:26:01.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="YXjDb6ASH-lxMjf4nT0n" version="24.4.8" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-1" value="Mikrokontroler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-2" value="Dedykowana płytka uniwersalna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-3" value="Układ komunikacji z czujnikami temperatury" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-4" value="Układy sterowania efektorami" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-6" value="Miernik prądu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-7" value="Zasilacz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-8" value="Czujniki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-9" value="Obudowa i element nagrzewany" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-10" value="Grzałka 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-11" value="Grzałka 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-13" value="Grzałki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-14" target="pC0jOW6HphveOgPJ1kEu-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="390" />
+              <mxPoint x="490" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-14" value="Mikrokontroler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-15" value="Zasilacz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-16" value="Dedykowana płytka uniwersalna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-16" target="pC0jOW6HphveOgPJ1kEu-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="380" />
+              <mxPoint x="560" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-20" value="&lt;div&gt;Obudowa i element nagrzewany&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="80" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-21" value="Grzałki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-22" target="pC0jOW6HphveOgPJ1kEu-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="280" />
+              <mxPoint x="1669" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-22" value="Czujniki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-24" value="Mikrokontroler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="330" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="360" as="sourcePoint" />
+            <mxPoint x="1500" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1540" y="280" />
+              <mxPoint x="1500" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-27" target="pC0jOW6HphveOgPJ1kEu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-27" target="pC0jOW6HphveOgPJ1kEu-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1161" y="120" />
+              <mxPoint x="1500" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-27" value="Zasilacz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-28" target="pC0jOW6HphveOgPJ1kEu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pC0jOW6HphveOgPJ1kEu-28" target="pC0jOW6HphveOgPJ1kEu-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pC0jOW6HphveOgPJ1kEu-28" value="Miernik prądu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
