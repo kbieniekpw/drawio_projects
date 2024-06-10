@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T07:54:05.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="VG6BBy7dqQznAaMFG0Ne" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T07:54:54.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="aa8frgJlNUce0sFPEVRt" version="24.5.2" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
-    <mxGraphModel dx="2261" dy="1923" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="2246" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3713,7 +3713,7 @@
           <mxGeometry x="3509" y="3604" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-156" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3509" y="3810" width="10" height="10" as="geometry" />
+          <mxGeometry x="3509" y="3809" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-157" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="3226" y="3900" width="10" height="10" as="geometry" />
@@ -4001,13 +4001,12 @@
             <mxPoint x="3644.72" y="3765.6399999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pI_tL7xTXGs6y_h21nxf-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.864;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pI_tL7xTXGs6y_h21nxf-156">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3519" y="3815.099999999999" as="sourcePoint" />
             <mxPoint x="3714.0072992700734" y="3791.9974838621997" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3542" y="3815" />
-              <mxPoint x="3542" y="3814" />
               <mxPoint x="3713" y="3814" />
               <mxPoint x="3713" y="3792" />
             </Array>
