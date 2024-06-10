@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:17:02.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="JMe-_E7Hky6yXv-wpKqi" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:18:10.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="edK26cj65LC_tyo_PtUP" version="24.5.2" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
     <mxGraphModel dx="2645" dy="3750" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-692" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2237" y="-2822" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-691" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2182" y="-2784" as="sourcePoint" />
+            <mxPoint x="-2195" y="-2784" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-675" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2133" y="-2294" width="1395" height="853" as="geometry" />
         </mxCell>
@@ -5720,12 +5729,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2210" y="-2803" as="sourcePoint" />
             <mxPoint x="-2210" y="-2795" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pI_tL7xTXGs6y_h21nxf-691" value="" style="endArrow=classicThin;html=1;rounded=0;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2182" y="-2784" as="sourcePoint" />
-            <mxPoint x="-2195" y="-2784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
