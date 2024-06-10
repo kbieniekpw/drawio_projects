@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T09:48:05.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="WZPRbe4J1RXTPJpEIUbA" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T09:50:56.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="bU5ExDw1_hQaJ_smX6Yp" version="24.5.2" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
-    <mxGraphModel dx="2269" dy="3088" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2485" dy="4369" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-487" value="&lt;div&gt;Stanowisko&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="-1994" width="384" height="275" as="geometry" />
+        </mxCell>
         <mxCell id="pC0jOW6HphveOgPJ1kEu-1" value="Mikrokontroler" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
@@ -5161,16 +5164,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-470" value="Zasilacz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1182" y="-2034" width="267" height="260" as="geometry" />
+          <mxGeometry x="780" y="-2395" width="267" height="260" as="geometry" />
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-471" value="&lt;div&gt;INA3221&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="-2043" width="270" height="254" as="geometry" />
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-472" value="SCL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="736" y="-2014" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pI_tL7xTXGs6y_h21nxf-473" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="552" y="-1939" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-474" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="733" y="-2006" width="15" height="15" as="geometry" />
@@ -5192,6 +5192,18 @@
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-480" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="733" y="-1908" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-483" value="&lt;div&gt;Mikrokontroler&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-2094" width="224" height="217" as="geometry" />
+        </mxCell>
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-484" value="Grzałka 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="-1788" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-485" value="Grzałka 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="-1971" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-486" value="Wentylator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="-1656" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
