@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T09:07:53.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="KmvJBHmL29eL0C2_MIS9" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T09:10:53.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="oywyeyu-cvg71l6eE185" version="24.5.2" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
     <mxGraphModel dx="4229" dy="3986" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5758,7 +5758,7 @@
             <mxPoint x="-1889" y="-3160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aG8mAmdhF1vS1-wsgtcj-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aG8mAmdhF1vS1-wsgtcj-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="aG8mAmdhF1vS1-wsgtcj-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1968" y="-3141" as="sourcePoint" />
             <mxPoint x="-1909" y="-3141" as="targetPoint" />
@@ -5888,7 +5888,7 @@
           <mxGeometry x="-2360" y="-2745" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aG8mAmdhF1vS1-wsgtcj-35" value="PWM 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-2177" y="-3169" width="40" height="40" as="geometry" />
+          <mxGeometry x="-2177" y="-3161" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aG8mAmdhF1vS1-wsgtcj-36" value="GND OUT 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-1741" y="-3310" width="40" height="40" as="geometry" />
