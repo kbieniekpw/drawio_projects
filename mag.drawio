@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T09:36:47.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="pTeYUQ0gRyPJhdQu2vLA" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T09:57:26.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="XIHRDK7ZshY-GiiVeWI9" version="24.5.2" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
-    <mxGraphModel dx="4655" dy="5380" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4356" dy="5224" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5598,7 +5598,7 @@
         <mxCell id="pI_tL7xTXGs6y_h21nxf-606" value="Złącze płytek grzałek i wentylatora" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="-497" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pI_tL7xTXGs6y_h21nxf-612" value="v" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="pI_tL7xTXGs6y_h21nxf-612" value="GND" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="14" y="-645" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pI_tL7xTXGs6y_h21nxf-618" value="PWM 1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
