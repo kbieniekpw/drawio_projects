@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T10:27:32.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="E5LlmIivlSkwYH6rhbzN" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T10:30:43.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="q6u4fQPmtGLaJ9WHlhmK" version="24.6.2" type="github">
   <diagram name="Strona-1" id="TVoqLBGjjWDmQXNZdC6m">
-    <mxGraphModel dx="4628" dy="6525" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5730" dy="7836" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6524,7 +6524,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-1" value="Reset TIM4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1934" y="-5430" width="120" height="60" as="geometry" />
+          <mxGeometry x="-972.5" y="-5282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-2" target="9F7bn5SD4x3HTHk57s5x-3">
           <mxGeometry relative="1" as="geometry" />
@@ -6598,44 +6598,160 @@
         <mxCell id="9F7bn5SD4x3HTHk57s5x-18" value="Wiadomość w formie echa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1288" y="-4973" width="73" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="9F7bn5SD4x3HTHk57s5x-20" value="Inicjalizacja systemu i zegarów" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-20" value="Inicjalizacja komunikacji i zegarów" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1398" y="-5375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-21" target="9F7bn5SD4x3HTHk57s5x-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-21" value="Funkcja obsługi przerwań" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1934" y="-5272" width="120" height="60" as="geometry" />
+          <mxGeometry x="-972.5" y="-5124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-23" value="Wystąpienie przerwania" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1857" y="-5336" width="60" height="30" as="geometry" />
+          <mxGeometry x="-895.5" y="-5188" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-24" target="9F7bn5SD4x3HTHk57s5x-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1874" y="-4995" />
-              <mxPoint x="-1707" y="-4995" />
-              <mxPoint x="-1707" y="-5400" />
+              <mxPoint x="-912.5" y="-4847" />
+              <mxPoint x="-745.5" y="-4847" />
+              <mxPoint x="-745.5" y="-5252" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-24" value="Odczyt danych z użyciem I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1934.5" y="-5108" width="120" height="60" as="geometry" />
+          <mxGeometry x="-973" y="-4960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-26" value="Wywołanie funkcji odczytu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1865" y="-5175" width="60" height="30" as="geometry" />
+          <mxGeometry x="-903.5" y="-5027" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-28" target="9F7bn5SD4x3HTHk57s5x-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-28" value="Init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1934" y="-5583" width="120" height="60" as="geometry" />
+          <mxGeometry x="-972.5" y="-5435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-30" value="Inicjalizacja TIM4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1857" y="-5492" width="60" height="30" as="geometry" />
+          <mxGeometry x="-895.5" y="-5344" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9F7bn5SD4x3HTHk57s5x-31" value="Zapis danych do pamięci" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1704" y="-5244" width="74" height="30" as="geometry" />
+          <mxGeometry x="-742.5" y="-5096" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-33" target="9F7bn5SD4x3HTHk57s5x-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-33" value="Reset TIM4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3415" y="-5918" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-35" target="9F7bn5SD4x3HTHk57s5x-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-35" value="Init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3218.5" y="-6076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-37" target="9F7bn5SD4x3HTHk57s5x-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-37" value="Oczekiwanie na wiadomość" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3059.5" y="-5917" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-40" target="9F7bn5SD4x3HTHk57s5x-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3119.5" y="-5728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-40" target="9F7bn5SD4x3HTHk57s5x-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2879.5" y="-5728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-40" value="Identyfikacja wiadomości" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3059.5" y="-5758" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-42" target="9F7bn5SD4x3HTHk57s5x-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2997.5" y="-5445" />
+              <mxPoint x="-2747.5" y="-5445" />
+              <mxPoint x="-2747.5" y="-5887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-42" value="Wysłanie odpowiedzi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3057.5" y="-5532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-44" target="9F7bn5SD4x3HTHk57s5x-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3119.5" y="-5502" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-44" value="Odczyt danych" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3179.5" y="-5639" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-46" target="9F7bn5SD4x3HTHk57s5x-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-46" value="Zapisanie wartości do rejestrów" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2939.5" y="-5638" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-47" value="Wiadomość otrzymana" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2991.5" y="-5823" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-48" value="Kod funkcji 3,6 lub 10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2873.5" y="-5757" width="73" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-49" value="Kod funkcji 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3193" y="-5755" width="73" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-50" value="Zapis danych do wiadomości" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3190.5" y="-5577" width="73" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-51" value="Wiadomość w formie echa" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2875.5" y="-5579" width="73" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-52" value="Inicjalizacja komunikacji przez ETHERNET" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2985.5" y="-5981" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-54" target="9F7bn5SD4x3HTHk57s5x-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-54" value="Funkcja obsługi przerwań" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3415" y="-5759" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-55" value="Wystąpienie przerwania" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3334" y="-5824" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-57" target="9F7bn5SD4x3HTHk57s5x-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3355" y="-5451" />
+              <mxPoint x="-3489" y="-5451" />
+              <mxPoint x="-3489" y="-5888" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-57" value="Odczyt danych z użyciem I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3415.5" y="-5539" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-58" value="Wywołanie funkcji odczytu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3346" y="-5635" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9F7bn5SD4x3HTHk57s5x-35" target="9F7bn5SD4x3HTHk57s5x-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3355" y="-5949" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-61" value="Inicjalizacja TIM4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3427" y="-5979" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9F7bn5SD4x3HTHk57s5x-62" value="Zapis danych do pamięci" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3567" y="-5676" width="74" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
